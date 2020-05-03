@@ -1,12 +1,12 @@
 {
-  "title": "Campaign Microsite",
-  "url": "https://akrigline.github.io/eleventy-dnd-microsite-template",
-  "description": "This is a template for a Homebrewery Styled D&D Microsite",
+  "title": "Dice and Dimwits Campaign",
+  "url": "https://elffriend-dnd.github.io/dice-and-dimwits",
+  "description": "Four friends and an NPC or two.",
   "feed": {
     "subtitle": "A D&D Microsite for session logs, primers, etc.",
     "filename": "feed.xml",
     "path": "/feed.xml",
-    "id": "https://akrigline.github.io/eleventy-dnd-microsite-template"
+    "id": "https://elffriend-dnd.github.io/dice-and-dimwits"
   },
   "author": {
     "name": "Andrew Krigline"

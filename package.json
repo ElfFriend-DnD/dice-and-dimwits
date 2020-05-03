@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-dnd-microsite-template",
+  "name": "dice-and-dimwits",
   "version": "0.0.2",
   "description": "A starter repository for a blog web site using the Eleventy static site generator. Reskinned to be similar to homebrewery for D&D.",
   "scripts": {
