@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/posts/firstpost/</loc>
+    <loc>https://elffriend-dnd.github.io/dice-and-dimwits/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/</loc>
+    <loc>https://elffriend-dnd.github.io/dice-and-dimwits/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/page-list/</loc>
+    <loc>https://elffriend-dnd.github.io/dice-and-dimwits/page-list/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/primer/</loc>
+    <loc>https://elffriend-dnd.github.io/dice-and-dimwits/primer/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/tags/</loc>
+    <loc>https://elffriend-dnd.github.io/dice-and-dimwits/tags/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/tags/session/</loc>
+    <loc>https://elffriend-dnd.github.io/dice-and-dimwits/tags/session/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
 </urlset>
