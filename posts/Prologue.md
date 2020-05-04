@@ -1,7 +1,6 @@
 ---
 title: Prologue
-
-date: 2018-05-01
+date: 2019-02-08
 tags:
   - session
 layout: layouts/post.njk
