@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2019-12-09T00:00:00-00:00</updated>
+	<updated>2020-04-27T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -13,25 +13,25 @@
 	</author>
 	
 	<entry>
-		<title>Prologue</title>
-		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-02-08-Prologue/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
-		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-02-08-Prologue/</id>
+		<title>Goblins and Missing Dwarves</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-02-08-Session/"/>
+		<updated>2019-02-08T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-02-08-Session/</id>
 		<content type="text"></content>
 	</entry>
 	
 	<entry>
-		<title>Goblins and Missing Dwarves</title>
-		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-02-08-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
-		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-02-08-Session/</id>
+		<title>Prologue</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/Prologue/"/>
+		<updated>2019-02-08T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/Prologue/</id>
 		<content type="text"></content>
 	</entry>
 	
 	<entry>
 		<title>On to Phandalin</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-05-30-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-05-30T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-05-30-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -39,7 +39,7 @@
 	<entry>
 		<title>Under Tresendar</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-05-31-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-05-31T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-05-31-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -47,7 +47,7 @@
 	<entry>
 		<title>Cleaning up after the Redbrands</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-06-06-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-06-06T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-06-06-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -55,7 +55,7 @@
 	<entry>
 		<title>The Future of Phandalin</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-06-19-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-06-19T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-06-19-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -63,7 +63,7 @@
 	<entry>
 		<title>To Thundertree</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-07-09-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-07-09T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-07-09-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -71,7 +71,7 @@
 	<entry>
 		<title>Inside Thundertree</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-07-15-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-07-15T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-07-15-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -79,7 +79,7 @@
 	<entry>
 		<title>Cragmaw&#39;s Demise</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-07-30-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-07-30T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-07-30-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -87,7 +87,7 @@
 	<entry>
 		<title>Flight to Phandalin</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-08-02-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-08-02T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-08-02-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -95,7 +95,7 @@
 	<entry>
 		<title>Into the Mountains</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-08-13-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-08-13T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-08-13-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -103,7 +103,7 @@
 	<entry>
 		<title>Under the Mountain, Outside again.</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-08-16-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-08-16T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-08-16-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -111,7 +111,7 @@
 	<entry>
 		<title>Drow Ambush in the Mountains</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-03-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-09-03T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-03-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -119,7 +119,7 @@
 	<entry>
 		<title>Lost Mines Found</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-05-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-09-05T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-05-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -127,7 +127,7 @@
 	<entry>
 		<title>Shortcut through Mushrooms</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-13-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-09-13T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-13-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -135,7 +135,7 @@
 	<entry>
 		<title>Mormesk the Wraith and the Forge of Spells</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-20-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-09-20T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-20-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -143,7 +143,7 @@
 	<entry>
 		<title>Blast Furnace Flameskull</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-27-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-09-27T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-09-27-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -151,7 +151,7 @@
 	<entry>
 		<title>Ghouls and Goblinoids</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-10-04-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-10-04T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-10-04-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -159,7 +159,7 @@
 	<entry>
 		<title>Drow, Goblinoids, and a Shield Door</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-10-11-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-10-11T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-10-11-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -167,7 +167,7 @@
 	<entry>
 		<title>Dopplegangers, Fire, and a Rescue</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-10-18-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-10-18T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-10-18-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -175,7 +175,7 @@
 	<entry>
 		<title>A Sorrowful Return</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-01-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-11-01T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-01-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -183,7 +183,7 @@
 	<entry>
 		<title>Townriddle&#39;s Tales</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-08-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-11-08T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-08-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -191,7 +191,7 @@
 	<entry>
 		<title>Townriddle&#39;s Bane</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-18-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-11-18T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-18-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -199,7 +199,7 @@
 	<entry>
 		<title>The Ooze Among us</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-22-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-11-22T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-11-22-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -207,15 +207,23 @@
 	<entry>
 		<title>Adabra&#39;s Mill</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-03-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-12-03T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-03-Session/</id>
+		<content type="text"></content>
+	</entry>
+	
+	<entry>
+		<title>Ransom Delivery and Travel</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-09-Session/"/>
+		<updated>2019-12-09T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-09-Session/</id>
 		<content type="text"></content>
 	</entry>
 	
 	<entry>
 		<title>Gundren&#39;s Release</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-17-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2019-12-17T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-17-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -223,7 +231,7 @@
 	<entry>
 		<title>The Treaty of Umbridge Hill</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-01-06-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-01-06T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-01-06-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -231,7 +239,7 @@
 	<entry>
 		<title>The Cockatrice of the Woods</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-01-14-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-01-14T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-01-14-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -239,7 +247,7 @@
 	<entry>
 		<title>Discovering the Circle of Thunder</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-01-21-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-01-21T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-01-21-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -247,7 +255,7 @@
 	<entry>
 		<title>Infiltrating the Circle of Thunder</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-04-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-02-04T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-04-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -255,7 +263,7 @@
 	<entry>
 		<title>Lhupo the Red-Axe</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-11-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-02-11T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-11-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -263,7 +271,7 @@
 	<entry>
 		<title>Flight from the Circle</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-18-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-02-18T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-18-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -271,7 +279,7 @@
 	<entry>
 		<title>Cragmaw Conference and Return to Phandalin</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-25-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-02-25T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-02-25-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -279,7 +287,7 @@
 	<entry>
 		<title>Arlidan&#39;s Traveling Troubadors</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-17-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-03-17T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-17-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -287,7 +295,7 @@
 	<entry>
 		<title>A Devil&#39;s Pact Payment</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-24-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-03-24T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-24-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -295,7 +303,7 @@
 	<entry>
 		<title>Battle for the Circle of Thunder</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-28-Battle/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-03-28T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-28-Battle/</id>
 		<content type="text"></content>
 	</entry>
@@ -303,7 +311,7 @@
 	<entry>
 		<title>Refurbishing Manors, Stolen Coins, and other Errands</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-31-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-03-31T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-03-31-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -311,7 +319,7 @@
 	<entry>
 		<title>Soul Matters and a new Journey Begins</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-09-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-04-09T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-09-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -319,7 +327,7 @@
 	<entry>
 		<title>Kobolds, Wood Elves, and Dragons, Oh My.</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-16-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-04-16T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-16-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -327,7 +335,7 @@
 	<entry>
 		<title>Something Rotten in the Kobold Dungeon</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-20-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-04-20T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-20-Session/</id>
 		<content type="text"></content>
 	</entry>
@@ -335,16 +343,8 @@
 	<entry>
 		<title>Locked In</title>
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-27-Session/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
+		<updated>2020-04-27T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-27-Session/</id>
-		<content type="text"></content>
-	</entry>
-	
-	<entry>
-		<title></title>
-		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-09-Session/"/>
-		<updated>2019-12-09T00:00:00-00:00</updated>
-		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2019-12-09-Session/</id>
 		<content type="text"></content>
 	</entry>
 </feed>
