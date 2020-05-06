@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2020-04-27T00:00:00-00:00</updated>
+	<updated>2020-05-04T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -346,5 +346,13 @@
 		<updated>2020-04-27T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-04-27-Session/</id>
 		<content type="text">After resting, our party explored the kobold dungeon further until they finally encountered a dragon.</content>
+	</entry>
+	
+	<entry>
+		<title>Acid and Boulders</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-05-04-Session/"/>
+		<updated>2020-05-04T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-05-04-Session/</id>
+		<content type="text">Telran the Black and his minion kobolds attacked the party. The fight was won and the party pressed depper into the caves, encountering a rolling boulder trap.</content>
 	</entry>
 </feed>
