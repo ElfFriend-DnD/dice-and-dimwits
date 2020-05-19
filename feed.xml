@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2020-05-11T00:00:00-00:00</updated>
+	<updated>2020-05-18T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -362,5 +362,13 @@
 		<updated>2020-05-11T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-05-11-Session/</id>
 		<content type="text">The party forged ahead deeper into the caves, encountering kobold resistance as the temperature dropped. Finally they found their quarry and his hoard in a large room scattered about with acid pools. The battle that followed ended when Thorrfig caved in part of the roof on Telran&#39;s head.</content>
+	</entry>
+	
+	<entry>
+		<title>Revenge of the Drow</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-05-18-Session/"/>
+		<updated>2020-05-18T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-05-18-Session/</id>
+		<content type="text">Having liberated Telran&#39;s hoard from his lair, the party returned to their cart and found Hada waiting for them. Something wasn&#39;t right with him, and the party was instantly suspicious of another doppleganger dupe. Sure enough, a Drow party was waiting to strike.</content>
 	</entry>
 </feed>
