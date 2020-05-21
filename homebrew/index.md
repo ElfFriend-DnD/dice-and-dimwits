@@ -212,9 +212,9 @@ The harvester must declare what ingredient is going to be extracted before the r
 
 | Part  | DC |
 |:---:|:---:|
-|  Defensive Parts  |  8 + CR/2  |
-|  Offensive Parts  |  10 + CR/2  |
-|  Specialty Parts  |  12 + CR/2  |
+|  Defensive Parts  |  8 + CR  |
+|  Offensive Parts  |  10 + CR  |
+|  Specialty Parts  |  12 + CR  |
 
 ##### Multiple Extractions <!-- omit in toc -->
 
