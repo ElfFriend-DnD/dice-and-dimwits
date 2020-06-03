@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2020-05-25T00:00:00-00:00</updated>
+	<updated>2020-06-01T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -378,5 +378,13 @@
 		<updated>2020-05-25T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-05-25-Session/</id>
 		<content type="text">The party loaded up and decided to stop at Longsaddle before continuing to Gnomengarde. Along the way, a midnight encounter with a harpy almost led to Stuu&#39;s demise. An overly enthusiastic bard badgered them for stories on the road as well.</content>
+	</entry>
+	
+	<entry>
+		<title>Longsaddle</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-01-Session/"/>
+		<updated>2020-06-01T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-01-Session/</id>
+		<content type="text">Within the small town of Longsaddle, the party found a trove of knowledge, a post office, and a wainwright. They bought a number of magical upgrades for their carriage and then headed off to Gnomengarde.</content>
 	</entry>
 </feed>
