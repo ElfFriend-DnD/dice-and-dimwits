@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2020-06-08T00:00:00-00:00</updated>
+	<updated>2020-06-15T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -393,6 +393,14 @@
 		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-08-Session/"/>
 		<updated>2020-06-08T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-08-Session/</id>
-		<content type="text">Gnomengarde is a town built around its workshops. Our party was led on a tour of each workshop where they met the head artificers. They used this opportunity to vet potentials for recruitment to work at the Lost Mines. Additionally, the mystery surrounding Vrizz deepened.</content>
+		<content type="text">Gnomengarde is a town built around its workshops. Our party was led on a tour of each workshop where they met the head artificers. They used this opportunity to vet potentials for recruitment to work at the Lost Mines. Additionally, the mystery surrounding Vrizz deepened after a meeting with Korboz.</content>
+	</entry>
+	
+	<entry>
+		<title>Mixed Signals</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-15-Session/"/>
+		<updated>2020-06-15T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-15-Session/</id>
+		<content type="text">The party went with Jirna to the Gnomengarde Archives, where they found plenty of written evidence of the transmutation workshop&#39;s recent existence. With the plot thickening, the party adjourned to their quarters to prepare for the next day. Jirna showed up bright and early once again to take the party to their meeting in the Grand Hall with all the workshops at once.</content>
 	</entry>
 </feed>
