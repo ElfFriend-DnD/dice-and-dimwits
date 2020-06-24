@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2020-06-15T00:00:00-00:00</updated>
+	<updated>2020-06-22T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -402,5 +402,13 @@
 		<updated>2020-06-15T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-15-Session/</id>
 		<content type="text">The party went with Jirna to the Gnomengarde Archives, where they found plenty of written evidence of the transmutation workshop&#39;s recent existence. With the plot thickening, the party adjourned to their quarters to prepare for the next day. Jirna showed up bright and early once again to take the party to their meeting in the Grand Hall with all the workshops at once.</content>
+	</entry>
+	
+	<entry>
+		<title>Fentra and Felines</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-22-Session/"/>
+		<updated>2020-06-22T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-22-Session/</id>
+		<content type="text">Korboz&#39;s daughter Fentra was frantic and sleep deprived as she single-mindedly focused on constructing an image of the thing she saw. After helping her snap out of it, the party attempted some spellwork to give them a location to investigate to no avail. They also cornered Brownie the cat, who alluded to the fact that something was lurking on the north half of town.</content>
 	</entry>
 </feed>
