@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/dice-and-dimwits"/>
-	<updated>2020-06-22T00:00:00-00:00</updated>
+	<updated>2020-07-06T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/dice-and-dimwits</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -410,5 +410,21 @@
 		<updated>2020-06-22T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-22-Session/</id>
 		<content type="text">Korboz&#39;s daughter Fentra was frantic and sleep deprived as she single-mindedly focused on constructing an image of the thing she saw. After helping her snap out of it, the party attempted some spellwork to give them a location to investigate to no avail. They also cornered Brownie the cat, who alluded to the fact that something was lurking on the north half of town.</content>
+	</entry>
+	
+	<entry>
+		<title>The Fourth Workshop</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-29-Session/"/>
+		<updated>2020-06-29T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-06-29-Session/</id>
+		<content type="text">After lunch and letters, the party attempted to return to the archives only to find them closed. Jirna wanted to stay and get them back open but the party wasn&#39;t having it, walking out of the palace and out into the town on their own. They followed Thorrfig&#39;s locate object spell and found the fourth workshop.</content>
+	</entry>
+	
+	<entry>
+		<title>Sass and Stones</title>
+		<link href="https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-07-06-Session/"/>
+		<updated>2020-07-06T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/dice-and-dimwits/posts/2020-07-06-Session/</id>
+		<content type="text">Exploring the Workshop further, the party found Vrizz&#39;s office and transmuter&#39;s stone. They read some of what Vrizz was working on most recently before heading down to the basement, where they discovered a foul smelling tunnel. While resting the party was attacked by something...</content>
 	</entry>
 </feed>
